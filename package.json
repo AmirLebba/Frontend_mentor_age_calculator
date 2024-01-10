@@ -1,5 +1,5 @@
 {
-  "homepage":"https://AmirLebba.github.io/frontend_mentor_age_calculator/",
+  "homepage": "https://amirlebba.github.io/Frontend_mentor_age_calculator/",
   "name": "frontend-mentor-age-calculator",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,6 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
-    
   },
   "dependencies": {
     "react": "^18.2.0",
